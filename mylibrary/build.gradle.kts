@@ -41,7 +41,7 @@ dependencies {
         publications {
             create<MavenPublication>("maven") {
                 groupId = "com.github.busramacak"
-                artifactId = "mylibrary"
+                artifactId = "Tryyyyyyyyyyyyyyy"
                 version = "1.0.0"
 
                 project.afterEvaluate {
