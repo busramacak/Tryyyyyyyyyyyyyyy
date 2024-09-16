@@ -20,5 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Tryyyyyyyyyyyyyyy"
-include(":app")
+include(":Sample")
 include(":mylibrary")
